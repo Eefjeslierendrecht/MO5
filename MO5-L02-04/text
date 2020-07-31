@@ -1,0 +1,15 @@
+Deel 1
+- De response is een data lijst met informatie over verschillende soorten katten.
+- status code = 200 OK
+
+Deel 2
+- response: {
+    "Response": "False",
+    "Error": "No API key provided."
+}
+
+- status code = 401 Unautorizied
+geen toegang tot deze API door mij API key.
+
+Deel 3
+deze API KEY werkt niet meer.
