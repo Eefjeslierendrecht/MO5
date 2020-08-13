@@ -1,0 +1,16 @@
+body{
+    background-color: thistle;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+    margin: 20px;
+}
+
+.sub_buttons{
+    margin-top: 10px;
+}
+
+.results{
+    margin-top: 10px;
+}
