@@ -1,0 +1,33 @@
+body{
+    background-color: lavenderblush;
+    font-family: 'Abel', sans-serif;
+}
+
+.container{
+    width: 50%;
+    margin:auto;
+    height:auto;
+    border:8px solid black;
+    border-radius: 15px;
+    
+}
+
+.container h1{
+    text-align: center;
+}
+#addTask{
+    text-align: center;
+}
+.overzicht{
+    margin-top: 5px;
+    text-align: center;
+    color: black;
+    
+}
+
+ul{
+    list-style-type: square;
+}
+li{
+    margin:10px;
+}
